@@ -1,0 +1,6 @@
+{
+  "name": "OmniVault Windows - Mainstream & Adult Entertainment Portal",
+  "description": "High-conversion Windows desktop portal with mainstream PC utilities, gaming mods, adult 18+ entertainment, and turnkey Adsterra monetization zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
