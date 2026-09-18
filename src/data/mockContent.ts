@@ -308,4 +308,4 @@ export const MOCK_SOCIAL_BAR_NOTIFICATIONS: SocialBarNotification[] = [
   }
 ];
 
-export const DEMO_ADSTERRA_DEFAULT_DIRECT_LINK = 'url: "";
+export const DEMO_ADSTERRA_DEFAULT_DIRECT_LINK = "";
